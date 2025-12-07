@@ -1,0 +1,33 @@
+## 🔍 Feature Engineering
+
+- **Lag Features**: 1, 2, 3, 6, 12 months
+- **Rolling Statistics**: Mean and std for 3, 6, 12 month windows
+- **Seasonal Components**: Sin/cos transformations
+- **Economic Indicators**: GDP growth, exchange rates
+- **External Events**: Holiday flags
+
+## 🎓 Competition Achievement
+
+This project was developed for the **OpenIIT Data Analytics Competition 2023** where it ranked in the **top 5 out of 200+ teams** from premier institutions across India.
+
+**Key Achievements:**
+- 89% prediction accuracy on 5-year historical data
+- 34% improvement over baseline models
+- Scalable solution for 100+ tourist destinations
+
+## 👤 Author
+
+**Rahul Kumar**
+- Data Scientist @ Swiggy
+- B.Tech Chemical Engineering @ IIT Kharagpur
+- GitHub: [@rahulkumar](https://github.com/rahulkumar)
+- LinkedIn: [rahul-kumar](https://linkedin.com/in/rahul-kumar)
+- Email: rahulprasad21102003@gmail.com
+
+## 📄 License
+
+This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
+
+---
+
+⭐ Star this repository if you find it helpful!
